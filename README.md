@@ -1,6 +1,10 @@
 # UD2501
 
-## Endpoints de fabricantes
+## URL de la API
+
+https://ud2501.herokuapp.com/
+
+### Endpoints de FABRICANTES
 
   1- Obtener una lista de los fabricantes
   - GET /api/fabricantes
@@ -17,7 +21,7 @@
   5- Borrar un fabricante por su ID 
   - DELETE /api/fabricantes/{codigo}
 
-## Endpoints de articulos
+### Endpoints de ARTICULOS
 
   1- Obtener una lista de los articulos
   - GET /api/articulos
