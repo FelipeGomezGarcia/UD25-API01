@@ -5,10 +5,10 @@
   1- Obtener una lista de los fabricantes
   - GET /api/fabricantes
   
-  2- Obtener un trabajador por su codigo
+  2- Obtener un fabricante por su codigo
   - GET /api/fabricantes/{codigo}
   
-  3- Insertar un fabricantes nuevo desde un request body
+  3- Insertar un fabricante nuevo desde un request body
   - POST /api/fabricantes
   
   4- Actualizar un fabricante indicando su codigo y sus campos en el body
